@@ -1,6 +1,7 @@
 # MMVA: Unified Multimodal Learning for Joint Video-Audio Generation
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://visual-ai.github.io/3drs/)
+[![UniAvatar-Bench](https://img.shields.io/badge/UniAvatar--Bench-Results-2ea44f?style=flat-square)](https://visual-ai.github.io/3drs/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-TBD-B31B1B.svg)](TBD)
 
 Xiaohu Huang<sup>\*</sup>, Hao Zhou<sup>\*</sup>, Qiangpeng Yang, Shilei Wen, Kai Han<sup>†</sup>  
@@ -8,9 +9,13 @@ The University of Hong Kong · ByteDance
 
 <sup>\*</sup>Equal contribution &nbsp;&middot;&nbsp; <sup>†</sup>Corresponding author
 
+
+<video src="assets/demo.mp4" controls playsinline style="max-width:100%; height:auto;"></video>
+
 ---
 
 ## Overview
+![Teaser](assets/method.jpg)
 
 MMVA is a unified framework for **joint video-audio generation**, with a particular focus on **human speech synchronized with lip movements**.  
 Unlike prior unified video-audio methods that rely on explicit fusion or modality-specific alignment modules (e.g., additional cross-attention stacks), MMVA enables direct cross-modal interaction by applying **joint self-attention over concatenated video, audio, and text tokens within each transformer layer**.
