@@ -13,6 +13,13 @@ The University of Hong Kong · ByteDance
 <video src="https://github.com/Visual-AI/MMVA/raw/main/assets/demo.mp4" width="100%" controls autoplay loop></video>
 </div>
 
+
+
+
+https://github.com/user-attachments/assets/00ace46d-ede1-46dc-b2de-24c98eb3ff3f
+
+
+
 ---
 
 ## Overview
