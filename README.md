@@ -9,8 +9,7 @@ The University of Hong Kong · ByteDance
 
 <sup>\*</sup>Equal contribution &nbsp;&middot;&nbsp; <sup>†</sup>Corresponding author
 
-
-<video src="assets/demo.mp4" controls playsinline style="max-width:100%; height:auto;"></video>
+![Demo Video](assets/demo.mp4)
 
 ---
 
