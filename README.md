@@ -1,7 +1,7 @@
 # MMVA: Unified Multimodal Learning for Joint Video-Audio Generation
 
-[![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://visual-ai.github.io/3drs/)
-[![UniAvatar-Bench](https://img.shields.io/badge/UniAvatar--Bench-Results-2ea44f?style=flat-square)](https://visual-ai.github.io/3drs/)
+[![Project Page](https://img.shields.io/badge/Project-Page-2ea44f)](https://visual-ai.github.io/mmva/)
+[![UniAvatar-Bench](https://img.shields.io/badge/UniAvatar--Bench-2ea44f?style=flat-square)](https://visual-ai.github.io/mmva/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-TBD-B31B1B.svg)](TBD)
 
 Xiaohu Huang<sup>\*</sup>, Hao Zhou<sup>\*</sup>, Qiangpeng Yang, Shilei Wen, Kai Han<sup>†</sup>  
@@ -9,8 +9,16 @@ The University of Hong Kong · ByteDance
 
 <sup>\*</sup>Equal contribution &nbsp;&middot;&nbsp; <sup>†</sup>Corresponding author
 
+<div align="center">
+<video src="https://github.com/Visual-AI/MMVA/raw/main/assets/demo.mp4" width="100%" controls autoplay loop></video>
+</div>
 
-<video src="assets/demo.mp4" controls playsinline style="max-width:100%; height:auto;"></video>
+
+
+
+https://github.com/user-attachments/assets/00ace46d-ede1-46dc-b2de-24c98eb3ff3f
+
+
 
 ---
 
